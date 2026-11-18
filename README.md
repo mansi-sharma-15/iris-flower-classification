@@ -41,3 +41,15 @@ illustrative flower reference photographs.
 ## Deployment
 This application can be deployed using Streamlit Community Cloud
 by connecting this GitHub repository.
+
+---
+
+## Live Demo
+
+Try the deployed Iris Flower Classification application:
+
+[Open Live App](https://iris-flower-classification.streamlit.app)
+
+## GitHub Repository
+
+[View Source Code](https://github.com/mansi-sharma-15/iris-flower-classification)
