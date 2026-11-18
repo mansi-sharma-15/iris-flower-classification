@@ -48,7 +48,7 @@ by connecting this GitHub repository.
 
 Try the deployed Iris Flower Classification application:
 
-[Open Live App]((https://iris-flower-classification-yg2xlk3ijerdisj8f4x3m8.streamlit.app/))
+[Open Live App](https://iris-flower-classification-yg2xlk3ijerdisj8f4x3m8.streamlit.app/)
 
 ## GitHub Repository
 
